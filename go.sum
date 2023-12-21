@@ -1,0 +1,6 @@
+github.com/edsrzf/mmap-go v1.1.0 h1:6EUwBLQ/Mcr1EYLE4Tn1VdW1A4ckqCQWZBw8Hr0kjpQ=
+github.com/edsrzf/mmap-go v1.1.0/go.mod h1:19H/e8pUPLicwkyNgOykDXkJ9F0MHE+Z52B8EIth78Q=
+github.com/lukasgolson/FileArray v0.1.0 h1:l6Q98S/gFDK6m66RYef1FmxOtwdgRzAinckBURcHcIw=
+github.com/lukasgolson/FileArray v0.1.0/go.mod h1:UKCtSJ1DT6FydVVUD2Gc/1XWAfknDBwTRPxm08Ho0gg=
+golang.org/x/sys v0.13.0 h1:Af8nKPmuFypiUBjVoU9V20FiaFXOcuZI21p0ycVYYGE=
+golang.org/x/sys v0.13.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
